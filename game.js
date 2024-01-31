@@ -1,3 +1,4 @@
+
 class Main extends Phaser.Scene {
 
     // This function essentially loads things into our game
